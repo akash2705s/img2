@@ -22,5 +22,5 @@ def url_to_qr(url, filename="qr_code.png"):
 
 # Example usage
 if __name__ == "__main__":
-    url = "https://fromourplace.com/"
+    url = "https://www.thepopcornfactory.com/"
     url_to_qr(url, "example_qr.png")
